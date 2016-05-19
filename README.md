@@ -105,7 +105,7 @@ end
 ## تست درگاه
 صفحه ی درگاه را در مرورگر باز کنید
 
-	Address : [http://localhost:3000/zarinpal/](http://localhost:3000/zarinpal/)
+	Address : http://localhost:3000/zarinpal/
 	
 ![](http://uploadbot.ir/files/form.jpg)
 	
