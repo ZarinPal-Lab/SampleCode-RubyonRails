@@ -1,4 +1,4 @@
-![](https://websiteonlinesolution.com/images/DevelopmentService/ruby4.png)
+![](http://tecorb.com/wp-content/uploads/2015/06/ror.png)
 ![](http://xemeston.ir/wp-content/uploads/2016/05/zarinpal-logo.png)
 
 # روبی آن ریلز :: درگاه پرداخت زرین پال
