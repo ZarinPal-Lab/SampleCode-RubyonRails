@@ -37,7 +37,7 @@ Gemfile دستور زیر را کپی کنید و در فایل
 ```ruby
 class ZarinpalController < ActionController::Base
 	# Author : Alireza Josheghani #
-	# WebSite : http://lemax.ir #
+	# WebSite : http://ipenpal.ir #
 	# Version : 1.0 For ZarinPal #
 	def pay
 		if !params['amount'].blank?
