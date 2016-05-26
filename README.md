@@ -32,7 +32,7 @@ Gemfile دستور زیر را کپی کنید و در فایل
 
     app/controllers/zarinpal_controller.rb
     
-متن زیر را جایگزینه کنید
+کد زیر را جایگزین کنید
 
 ```ruby
 class ZarinpalController < ActionController::Base
